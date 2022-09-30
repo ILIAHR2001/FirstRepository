@@ -1,7 +1,7 @@
 эхо "# FirstRepository" >> README.md
  git init
- git добавить README.md
- git commit -m "первая фиксация"
-git branch -M main
+ git доВАВАМбавить REAАВПАDME.md
+ git commit -m "первая фикУЦКЦсация"
+git brЫВЫАЫnch -M main
  git удаленное добавление источника https://github.com/ILIAHR2001/FirstRepository.git
- git push -u origin основной
+ git puРАПР -u origin основной
